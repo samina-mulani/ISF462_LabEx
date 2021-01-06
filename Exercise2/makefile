@@ -1,0 +1,2 @@
+all:
+	gcc diningphilosopher.c 
